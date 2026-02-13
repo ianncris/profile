@@ -24,6 +24,6 @@ I developed foundational and basic web projects using **HTML** and **CSS**, incl
 <br/>
 
 ## Featured projects:
-- **[University Portal Interface](https://github.com/rickdeckard03/university-portal-interface) - University domain management with a JavaFX interface**
-- **[Market DB](https://github.com/rickdeckard03/market-db) - Basic framework of a online marketplace using SQL**
+- **[University Portal Interface](https://github.com/ianncris/university-portal-interface) - University domain management with a JavaFX interface**
+- **[Market DB](https://github.com/ianncris/market-db) - Basic framework of a online marketplace using SQL**
 
