@@ -20,6 +20,6 @@ I developed foundational and basic web projects using **HTML** and **CSS**, incl
 
 ## Featured projects:
 - **[University Portal Interface](https://github.com/ianncris/university-portal-interface) - University domain management with a JavaFX interface.**
-- **[Market DB](https://github.com/ianncris/market-db) - Basic framework of a online marketplace using SQL.**
 - **[Intelligence Suite Py](https://github.com/ianncris/intelligence-suite-py) - University project on AI agent implementation and machine learning development.**
 - **[Simplex Algorithm](https://github.com/ianncris/simplex-algorithm) - Linear programming problem solver based on simplex algorithm.**
+- **[Market DB](https://github.com/ianncris/market-db) - Basic framework of a online marketplace using SQL.**
